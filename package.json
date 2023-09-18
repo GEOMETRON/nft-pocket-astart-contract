@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "verify": "hardhat verify --contract contracts/PocketToken.sol:PocketToken --network astarMainnet 0x77CA5df58607a6E57E537F0492Bd82e932feE7ac"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@poanet/solidity-flattener": "^3.0.9"
+  }
+}
