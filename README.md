@@ -9,3 +9,5 @@ Ease of Access: Users can effortlessly create a wallet within the LINE app they 
 Ease of Use for Businesses: Many companies utilize LINE’s official accounts for promotional purposes, emphasizing touchpoints with users. NFT Pocket serves as a powerful tool for these companies when building loyalty programs. Users can earn NFTs and tokens through actions like reading articles from companies, purchasing products, or visiting popup stores. These NFTs can then be used to upgrade membership ranks.
 As the rank increases, users become eligible to receive special offers from companies.
 Through the companies using NFT Pocket, we will distribute ASTR tokens, enabling tens of millions of people to acquire ASTR tokens. We will initially acquire users in Japan and then expand to Taiwan and Thailand, where LINE is also used. Subsequently, not just limited to LINE, we plan to apply a similar mechanism to KakaoTalk, WeChat, Telegram, etc., and expand globally.
+
+#astar-network #dAppStaking
